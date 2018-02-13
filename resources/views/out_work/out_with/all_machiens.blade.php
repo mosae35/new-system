@@ -1,0 +1,1 @@
+{!! Form::select('machien_name',$data,null,['style'=>'width: 30px;height: 18px;']) !!}
